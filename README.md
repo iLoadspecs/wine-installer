@@ -1,3 +1,3 @@
 # wine-installer
 Wine install. Simplified.
-(find your versions in the releases)
+Find your distro [here] (https://github.com/iLoadspecs/wine-installer/releases)
