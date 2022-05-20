@@ -1,2 +1,3 @@
 # wine-installer
-Wine install. Sinplified.
+Wine install. Simplified.
+(find your versions in the releases)
